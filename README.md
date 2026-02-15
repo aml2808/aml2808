@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hola, soy Alberto
 
-<!--
-**aml2808/aml2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Data Analyst en formación con experiencia en análisis técnico y validación de métodos. 
+Actualmente desarrollo proyectos enfocados en análisis de datos, simulaciones estadísticas y aplicaciones interactivas con Python.
 
-Here are some ideas to get you started:
+Me interesa utilizar datos para entender patrones, explicar comportamientos y apoyar la toma de decisiones basadas en evidencia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tecnologías y herramientas
+
+- Python
+- Pandas
+- SciPy
+- SQL
+- Streamlit
+- Plotly
+- Git & GitHub
+
+---
+
+##  Proyectos Destacados
+
+###  Simulación de Convergencia Probabilística
+Aplicación desarrollada con Streamlit que simula lanzamientos de moneda para visualizar la Ley de los Grandes Números.
+Incluye simulación estadística con SciPy y visualización dinámica.
+
+🔗 [Ver proyecto](https://github.com/aml2808/Proyectos_Tripleten/tree/main/Proyecto_Mi_Primera_App)
+
+---
+
+###  Análisis de Mercado de Vehículos
+Aplicación web interactiva para explorar anuncios de venta de vehículos en EE.UU.
+Incluye análisis exploratorio y visualizaciones interactivas con Plotly.
+
+🔗 [Ver proyecto](https://github.com/aml2808/Proyectos_Tripleten/tree/main/Proyecto_Sprint_7)
+
+---
+
+##  Contacto
+
+📧 aml.28@outlook.com  
+🔗 www.linkedin.com/in/alberto-mata-lerma/
+
